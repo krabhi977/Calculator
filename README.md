@@ -1,2 +1,2 @@
-# journey2trek
-Just a static web page using HTML and CSS
+# calculator
+It is simple calculator using HTML, CSS and Javascript.
